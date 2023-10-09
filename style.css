@@ -1,0 +1,32 @@
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.box1{
+    border: 5px solid darkcyan;
+    width: 200px; 
+    height: 120px; 
+}
+h1{
+    font-size:10px; 
+}
+.apple{
+    font-size:35px ;
+}
+.hover:hover{
+    color:red;
+}
+.click:active{
+    color:purple;
+}
+.bnt1:hover{
+    background:red;
+}
+.bnt2:active{
+    font-size:40px ;
+}
